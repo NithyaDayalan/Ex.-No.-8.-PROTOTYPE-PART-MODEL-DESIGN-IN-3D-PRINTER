@@ -47,8 +47,8 @@
 
 ## Output:
 ![Screenshot 2024-11-16 165841](https://github.com/user-attachments/assets/4bc18e13-4887-4d8c-a32f-71041f704db0)
-### Name: ROSHINI S
-### Register Number: 212223240142
+### Name: NITHYA D
+### Register Number: 212223240110
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
